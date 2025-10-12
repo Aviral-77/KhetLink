@@ -2,6 +2,24 @@
 
 An integrated ecosystem connecting farmers, agribusinesses, and experts through AI-driven insights, verified geospatial data, and smart digital services — fostering transparency, productivity, and sustainability across the agricultural value chain.
 
+## 📚 Contents
+
+- [Platform Overview](#platform-overview)
+- [🚀 Core Features (segregated)](#-core-features-segregated)
+  - [🤖 AI (Disease Detection & Insights)](#-ai-disease-detection--insights)
+  - [🌱 Carbon Credits](#-carbon-credits)
+  - [🛒 Marketplace](#-marketplace)
+  - [🧾 Insurance Claims](#-insurance-claims)
+- [Project Structure](#project-structure)
+- [Backend Setup (AI & APIs)](#backend-setup-ai--apis)
+- [Frontend Setup (Flutter)](#frontend-setup-flutter)
+- [API Quick Reference](#api-quick-reference)
+- [Technology Stack (High Level)](#technology-stack-high-level)
+- [Supported Crops (Example)](#supported-crops-example)
+- [Deployment (Concise)](#deployment-concise)
+- [Roadmap (Selected)](#roadmap-selected)
+- [Project Impact (Projected)](#project-impact-projected)
+
 ## Platform overview
 
 KhetLink combines carrier-verified network APIs, AI-powered analysis, and a Flutter client to deliver mapped, verified and actionable agriculture workflows: disease detection, farm mapping, insurance claims, carbon credits and a verified marketplace.
