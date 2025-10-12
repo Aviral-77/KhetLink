@@ -16,12 +16,14 @@ KhetLink's core capabilities are grouped into four focused pillars below.
 
 - Crop Disease Detection: Deep learning models analyze leaf images for disease type, severity, affected area and treatment recommendations.
 - Segmentation: AI-generated masks and overlays to quantify affected areas.
+- Models Used: Utilizes FastSAM for segmentation and PyTorch/TensorFlow models trained on regional crop disease datasets.
 - Multilingual Chatbot: LLM-powered assistant (Hindi & English) to answer farmer questions and provide next steps.
 - Weather Integration: Field-specific forecasts to guide treatments and operations.
 
 ### 🌱 Carbon Credits
 
 - Carbon Credit Tracking: Continuous verification of sustainable practices and farm boundaries for credit issuance.
+- Importance: Carbon credits incentivize environmentally friendly farming by allowing farmers to earn for sustainable practices, reduce greenhouse gas emissions, and participate in verified carbon markets.
 - Carrier-verified location trails and KYC-backed ownership improve trust in listed credits.
 
 ### 🛒 Marketplace
