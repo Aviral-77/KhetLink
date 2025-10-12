@@ -12,7 +12,7 @@ An integrated ecosystem connecting farmers, agribusinesses, and experts through 
   - [🧾 Insurance Claims](#-insurance-claims)
 - [Project Structure](#project-structure)
 - [Backend Setup (AI & APIs)](#backend-setup-ai--apis)
-- [Frontend Setup (Flutter)](#frontend-setup-flutter)
+- [Mobile Application setup (Flutter)](#Mobile Application setup (Flutter))
 - [API Quick Reference](#api-quick-reference)
 - [Technology Stack (High Level)](#technology-stack-high-level)
 - [Supported Crops (Example)](#supported-crops-example)
