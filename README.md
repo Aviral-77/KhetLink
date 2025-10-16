@@ -26,7 +26,7 @@ KhetLink combines carrier-verified network APIs, AI-powered analysis, and a Flut
 
 ---
 
-## 🚀 Core Features (segregated)
+## 🚀 Core Features
 
 KhetLink's core capabilities are grouped into four focused pillars below.
 
@@ -178,7 +178,7 @@ Invoke-RestMethod -Method Post -Uri http://localhost:8085/chat-query -Body (@{fa
 
 ---
 
-## Technology stack (high level)
+## Technology stack
 
 - Network APIs: Nokia Open Gateway (carrier-level location, phone verification, KYC)
 - Backend: FastAPI, SQLAlchemy, ReportLab
@@ -188,7 +188,7 @@ Invoke-RestMethod -Method Post -Uri http://localhost:8085/chat-query -Body (@{fa
 
 ---
 
-## Supported crops (example)
+## Supported crops
 
 | Crop  | Example diseases                                  | Example accuracy |
 |-------|---------------------------------------------------|------------------:|
@@ -200,9 +200,9 @@ Extensible to 20+ crops with regional datasets.
 
 ---
 
-## Deployment (concise)
+## Deployment
 
-Backend (Docker example)
+Backend
 
 ```bash
 docker build -t khetlink-ai ./ai
@@ -215,7 +215,7 @@ Mobile Application: standard Flutter build flows (APK/IPA/web builds). Deploy we
 
 ---
 
-## Roadmap (selected)
+## Roadmap
 
 - Expand crop support and regional disease datasets
 - Offline inference (TensorFlow Lite / TFLite)
@@ -224,7 +224,7 @@ Mobile Application: standard Flutter build flows (APK/IPA/web builds). Deploy we
 
 ---
 
-## Project impact (projected)
+## Project impact
 
 | Metric | Before KhetLink | With KhetLink |
 |--------:|----------------:|--------------:|
